@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Naser Poursalavati
+# me-at-poursalavati.com
+# 04092024
+
 # Default values for source, destination, and max size
 DEFAULT_SOURCE='.'
 DEFAULT_DESTINATION='~/Desktop/'
